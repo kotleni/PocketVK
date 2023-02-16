@@ -1,0 +1,22 @@
+{
+    "token":"551d6629868816643bbbe3851ab105d7f12dc24aa17c8584d3971bd05b46f1c549cb162d0c7ca9b57d68a",
+    "timezone":"Europe/Moscow",
+    "delay":1,
+    "title":"📛 |",
+    "sleep_title":"",
+    "dynamic-status":true,
+    "auto-sleep":false,
+    "sleep":[
+        "00:00",
+        "06:00"
+    ],
+    "textes":[
+        "😒",
+        "😎",
+        "🙂",
+        "🙃",
+        "🥰",
+        "🙄",
+        ":D"
+    ]
+}
